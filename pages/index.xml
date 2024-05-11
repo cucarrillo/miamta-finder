@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on The Miata Finder Blog</title>
+    <link>https://finder.miata.cc/pages/</link>
+    <description>Recent content in Pages on The Miata Finder Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 07 Oct 2023 16:38:20 -0400</lastBuildDate><atom:link href="https://finder.miata.cc/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://finder.miata.cc/pages/about/</link>
+      <pubDate>Sat, 07 Oct 2023 16:38:20 -0400</pubDate>
+      
+      <guid>https://finder.miata.cc/pages/about/</guid>
+      
+      <description>&lt;h2 id=&#34;welcome-to-the-miata-finder-blog&#34;&gt;Welcome To The Miata Finder Blog!&lt;/h2&gt;
+&lt;p&gt;Here you will find me posting pictures of my 1991 Miata (pictured below) alongside other Miata (sometimes any Mazda car!).&lt;/p&gt;
+&lt;p&gt;This idea was started by my brother who suggested we leave polaroids when we park next to other Miatas. I really liked that idea and decided to take it one step further by creating this blog.
+Thanks for checking out my blog.&lt;/p&gt;
+&lt;p&gt;You can contact me via email at &lt;a href=&#34;mailto:ubaldo@nopal.cc&#34;&gt;ubaldo@nopal.cc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://finder.miata.cc/my-miata.jpg&#34; alt=&#34;my miata&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This blog currently uses the &lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome&#34;&gt;Hugo Blog Awesome Blog&lt;/a&gt;. I plan to make my own theme for this website at somepoint, so look out for that in the future.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
